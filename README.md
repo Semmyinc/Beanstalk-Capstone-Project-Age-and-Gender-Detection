@@ -1,6 +1,7 @@
 This repository contains Capstone project work for Beanstalk (Hamoye DataScience internship):
 
-**Age and Gender Detection using CNN** (Conventional Neural Networks) 
+# Age and Gender Detection using CNN 
+(Convolutional Neural Networks) 
 
 A Model to analyze face pictures of different genders and age groups. 
 The dataset includes a CSV of facial images that are labeled on the basis of age, gender, and ethnicity, and it includes 27305 rows and 5 columns, age, ethnicity, gender, img_name and pixels. 
